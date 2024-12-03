@@ -1,0 +1,18 @@
+@import './base.css';
+
+#app {
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+
+    padding: 0 1rem;
+    margin-bottom: 30px;
+}
+
+@media screen and (width<=1920px) {
+    #app {
+        max-width: 1240px;
+    }
+}

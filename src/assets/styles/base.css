@@ -1,0 +1,13 @@
+:root {
+    --main-color-blue: #7397f5;
+    --focus-color-blue: #e2efff;
+    --border-header-blue: #73aff4;
+    --active-color-blue: #4598f7;
+    --background-shop-card: #f8f8fa;
+    --irrelevant-info: #aaaaaa;
+    --hover-name-card: #125bae;
+    --hover-catigories-sidevar: #e2efff;
+    --border-sidebar: #d5d5d5;
+    --checkbox-hober-sidebar: #7397f5;
+    --scrollbar-sideebar: #cbcbcb;
+}
