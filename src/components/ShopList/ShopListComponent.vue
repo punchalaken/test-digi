@@ -44,7 +44,7 @@ const inStockObject = [
     grid-template-columns: repeat(4, 1fr);
     gap: 1.5rem;
 
-    @media screen and (max-width: 1000px) {
+    @media screen and (max-width: 1100px) {
         grid-template-columns: repeat(3, 1fr);
     }
 
